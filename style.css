@@ -118,8 +118,8 @@ transition: transform 60s;
 	}
 
 	#sun{
-		width: 350px;
-		height: 350px;
+		width: 330px;
+		height: 330px;
 	}
 
 	#social{
@@ -139,16 +139,20 @@ transition: transform 60s;
 		padding: 0 25px;
 	}
 
+	#social_bottom{
+		display: block;
+		margin-top: 50px;
+	}
+
+	#sun.active{
+		transform: translate(100px, 30px);
+	}
+
 	@media (max-width: 320px){
 
 		#wrapper{
 			margin: 35px auto;
 			padding: 0 20px;
-		}
-
-		#social_bottom{
-			display: block;
-			margin-top: 50px;
 		}
 
 }
