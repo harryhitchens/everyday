@@ -145,7 +145,7 @@ transition: transform 60s;
 	}
 
 	#sun.active{
-		transform: translate(80px, 30px);
+		transform: translate(70px, 30px);
 	}
 
 	@media (max-width: 320px){
