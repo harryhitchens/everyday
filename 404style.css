@@ -91,7 +91,7 @@ margin: 30px 0 0 0;
 	right: 0;
 	top:0;
 	transform: translate(-150px,200px);
-	transition: transform 40s;
+	transition: transform 30s;
 }
 
 #sun.active{
