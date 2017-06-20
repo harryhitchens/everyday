@@ -70,7 +70,7 @@ margin: 30px 0 0 0;
 }
 
 #error{
-	font-size: 350px;
+	font-size: 380px;
 	position: absolute;
 	top: 50%;
 	left: 0;
@@ -78,7 +78,7 @@ margin: 30px 0 0 0;
 	text-align: center;
 	display: block;
 	margin: 0;
-	margin-top: -254px;
+	margin-top: -276px;
 	color: #c35b68;
 }
 
@@ -91,7 +91,7 @@ margin: 30px 0 0 0;
 	right: 0;
 	top:0;
 	transform: translate(-150px,200px);
-	transition: transform 30s;
+	transition: transform 40s;
 }
 
 #sun.active{
